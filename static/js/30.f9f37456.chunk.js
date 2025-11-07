@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkDDS_FRONT=self.webpackChunkDDS_FRONT||[]).push([[30],{2030:(e,s,r)=>{r.r(s),r.d(s,{default:()=>n});r(5043);var a=r(5475),c=r(579);const n=()=>(0,c.jsxs)("div",{className:"error container",children:[(0,c.jsx)("h2",{children:"Error! Page Not Found"}),(0,c.jsx)(a.k2,{to:"/",className:"btn",children:"go to home"})]})}}]);
+//# sourceMappingURL=30.f9f37456.chunk.js.map
