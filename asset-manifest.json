@@ -62,7 +62,7 @@
     "960.b1aa8805.chunk.js.map": "/static/js/960.b1aa8805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c05165f2.css",
-    "static/js/main.0210a58c.js"
+    "static/js/main.0210a58c.js",
+    "static/css/main.c05165f2.css"
   ]
 }
