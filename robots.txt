@@ -1,6 +1,7 @@
 User-agent: *
-Disallow: /admin/
 Disallow: /static/
+Disallow: /admin/
+
 Allow: /
 
 Sitemap: https://uizhospital.com/sitemap.xml
