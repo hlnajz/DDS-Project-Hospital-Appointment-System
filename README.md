@@ -108,5 +108,5 @@ If you are working with the source code to modify the application:
 
 <div align="center">
   <p>© 2025 UIZ Hospital Team. All Rights Reserved.<br/>
-  <i>Built with ❤️ and Distributed Logic</i></p>
+  <i>Built with ❤️ and Distributed Logic Cafe</i></p>
 </div>
