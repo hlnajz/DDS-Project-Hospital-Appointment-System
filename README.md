@@ -2,7 +2,7 @@
 
 ![Project Banner](static/media/heroimg.60820fe05181a1e3954b.png)
 
-# UIZ Hospital Appointment System 🏥
+# UIZ Hospital Appointment System 🏥 
 
 ### Distributed Systems Module Project
 
