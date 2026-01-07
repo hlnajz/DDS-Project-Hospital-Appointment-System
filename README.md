@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 ![Project Banner](static/media/heroimg.60820fe05181a1e3954b.png)
 
